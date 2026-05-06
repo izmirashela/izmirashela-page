@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /*Include.php
+Disallow: /*Unused
+Crawl-delay: 3
+Host: кеесхонд.рф
+Sitemap: http://кеесхонд.рф/sitemap.xml
